@@ -6,4 +6,4 @@ Percebi que minha estrutura if para condicionar a validação dos primeiro e seg
 
 Usei como base o algoritmo descrito no site: https://bityli.com/hSgOI
 
-Acesso meu validador de CPF em: 
+Acesso meu validador de CPF em: https://lcpariz.github.io/validador-cpf/
